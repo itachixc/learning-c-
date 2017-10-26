@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QSimulater", "QSimulater\QSimulater.vcxproj", "{C65A06A7-FBAA-4FB7-B153-06F3DCFAB292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C65A06A7-FBAA-4FB7-B153-06F3DCFAB292}.Debug|x64.ActiveCfg = Debug|x64
+		{C65A06A7-FBAA-4FB7-B153-06F3DCFAB292}.Debug|x64.Build.0 = Debug|x64
+		{C65A06A7-FBAA-4FB7-B153-06F3DCFAB292}.Debug|x86.ActiveCfg = Debug|Win32
+		{C65A06A7-FBAA-4FB7-B153-06F3DCFAB292}.Debug|x86.Build.0 = Debug|Win32
+		{C65A06A7-FBAA-4FB7-B153-06F3DCFAB292}.Release|x64.ActiveCfg = Release|x64
+		{C65A06A7-FBAA-4FB7-B153-06F3DCFAB292}.Release|x64.Build.0 = Release|x64
+		{C65A06A7-FBAA-4FB7-B153-06F3DCFAB292}.Release|x86.ActiveCfg = Release|Win32
+		{C65A06A7-FBAA-4FB7-B153-06F3DCFAB292}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {153EAD06-C427-4BAE-80B5-4948144E4696}
+	EndGlobalSection
+EndGlobal

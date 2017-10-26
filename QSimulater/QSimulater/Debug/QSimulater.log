@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(QSimulater.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+c:\users\xcheng\documents\github\learning-c-\qsimulater\qsimulater\main.cpp(14): warning C4101: “P”: 未引用的局部变量
+  QSimulater.vcxproj -> C:\Users\Xcheng\Documents\GitHub\learning-c-\QSimulater\Debug\QSimulator.exe
